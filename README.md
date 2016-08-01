@@ -5,9 +5,9 @@ Information about Multiwii can be found on: http://www.multiwii.com/wiki/index.p
 
 Arduino and Raspberry Pi are communicating over serial port.
 
-Example: To run the application issue the command:- ### sudo python ptest1.py
+Example: To run the application issue the command:-  sudo python ptest1.py
 
-(To know your python version type: ### python -V)
+(To know your python version type:  python -V)
 
 *You can get any type of data supported by MultiWii Serial Protocol: http://www.multiwii.com/wiki/index.php?title=Multiwii_Serial_Protocol
 
